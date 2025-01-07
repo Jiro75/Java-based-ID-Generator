@@ -39,7 +39,7 @@ https://github.com/user-attachments/assets/878f01f6-cae1-452e-8dd9-3cdd472ff167
 - Mona Elkhouly
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Jiro75/Java-based-ID-Generator/blob/57bfa016130084c394513858681e99b75b6ff21f/LICENSE) file for details.
 ## Contact
 https://www.linkedin.com/in/mostafahany4705
 
